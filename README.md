@@ -18,7 +18,8 @@ Correct!032
 
 COBOLで実装した数当てゲームです。
 
-
+## 🔨使い方
+OpenCobolIDEで[main.cbl](./main.cbl)を実行してください。
 
 
 ## ✍Author
